@@ -28,5 +28,5 @@
 <!-- TODO-IST:START -->
 * [x] Прокачать свой профиль на Github
 * [ ] Пройти Certified Kubernetes Application Developer
-* [ ] Создать свой первый проект на Github       
+* [x] Создать свой первый проект на Github       
 <!-- TODO-IST:END -->
